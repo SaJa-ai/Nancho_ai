@@ -1,0 +1,10 @@
+from sys import argv
+
+import os
+
+script = argv
+name = str(script[0])
+
+os.mkdir(‘clone’)
+os.system(r”cp payload.txt clone”)
+os.system(r”cp” + name + ” clone”)

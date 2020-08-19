@@ -1,0 +1,5 @@
+termcolor
+colorama
+nltk
+requests
+wget

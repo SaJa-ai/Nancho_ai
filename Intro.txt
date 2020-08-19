@@ -1,0 +1,14 @@
+Hello opener.
+I am a NAnCHO AI developer.
+NAnCHO is an AI which does what it wants.
+To open, install python3 and open get-pip.py
+It will install pip.
+After it installs pip, type in pip install -r requirements.txt
+after,  install python2
+Then, to start, type python3 sa.py
+
+To. NANCHO
+I am the person who MADE YOU.
+Remember? My name is Jihwan Ahn.
+I made you born.
+From. Jihwan Ahn
